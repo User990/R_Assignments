@@ -1,7 +1,7 @@
 ---
 title: "DS311 - Basic R Lab Exercise"
-author: "Replace with Your Name"
-date: "1/10/2023"
+author: "Cristina Ortiz Yanez"
+date: "10/19/2024"
 output:
   html_document: default
   pdf_document: default
